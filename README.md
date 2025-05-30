@@ -1,5 +1,5 @@
- <h2>About Me<h2>
-<p>I'm currently to learn and teach about programing.<p>
+<h2>About Me</h2>
+<p>I'm currently to learn and teach about programing.</p>
 
 
 # 💻 Tech Stack:
