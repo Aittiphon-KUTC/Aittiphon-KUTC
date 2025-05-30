@@ -1,5 +1,5 @@
-# 💫 About Me:
-🦄 I'm currently to learn and teach about programing.
+about Me <hr>
+'m currently to learn and teach about programing.
 
 
 # 💻 Tech Stack:
