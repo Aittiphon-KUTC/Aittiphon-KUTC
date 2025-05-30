@@ -1,6 +1,8 @@
 <h2>About Me</h2>
-<p> I'm currently to learn and teach about programing.</p>
-<p>Lab in Class about Programimg and Teacher from Khumueang Technical College.</p>
+<pre> 
+  I'm currently to learn and teach about programing.
+  Lab in Class about Programimg and Teacher from Khumueang Technical College.
+</pre>
 
 
 <h2>Tech Stack</h2>
