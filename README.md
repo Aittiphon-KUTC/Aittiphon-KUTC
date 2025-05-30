@@ -1,4 +1,4 @@
-about Me <hr>
+# <h2>About Me<h2>
 'm currently to learn and teach about programing.
 
 
